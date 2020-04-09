@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  9 12:07:57 2020
 
-@author: ram
-"""
 
 from Plot_AQI import avg_data_2013,avg_data_2014,avg_data_2015,avg_data_2016
 import requests
